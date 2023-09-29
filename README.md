@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)](https://rangoliiii.io)
 <h1 align="center">Hi 👋, I'm Rangoli Dhawan</h1>
 <h3 align="center">A passionate frontend/backend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif?1508943159">
